@@ -9,4 +9,4 @@ Languages:
 
 My social networks:
 
-[![Telegramm](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/guslik5)
+[![Telegramm](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/guslik5)
