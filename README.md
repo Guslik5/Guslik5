@@ -1,5 +1,8 @@
+<div align="center">
+
 ![hippo](https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif)
-# Hello, I'm *Guslik*
+# Hello, I'm *Guslik*👻
+![](https://komarev.com/ghpvc/?username=Guslik5&color=blueviolet)
 ###### Computer science student from ITMO university
 
 ### *Languages:*
@@ -19,5 +22,10 @@
 
 [![Telegramm](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/guslik5)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guslik5&theme=highcontrast&fire=red&ring=purple&stroke=purple&border=purple&sideNums=yellow&currStreakNum=yellow)](https://git.io/streak-stats)
+[![Guslik GitHub stats](https://github-readme-stats.vercel.app/api?username=Guslik5)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guslik5&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
