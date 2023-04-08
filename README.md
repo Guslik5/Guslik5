@@ -2,7 +2,7 @@
 
 ![hippo](https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif)
 # Hello, I'm *Guslik*👻
-![](https://komarev.com/ghpvc/?username=Guslik5&color=blueviolet)
+![profile views](https://komarev.com/ghpvc/?username=Guslik5&color=blueviolet)
 ###### Computer science student from ITMO university
 
 ### *Languages:*
