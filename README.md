@@ -54,9 +54,9 @@
 
   <h3> 🔗 My Socials</h3>
 
-  [
-  https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram
-  ](https://t.me/guslik5)
+<a href="https://t.me/guslik5">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/50px-Telegram_logo.svg.png" alt="Telegram">
+</a>
 
   <br>
 
