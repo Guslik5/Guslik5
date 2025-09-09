@@ -61,7 +61,7 @@
   <br>
 
    <h3> 📊 My Stats</h3>
-  <div style="display: flex; justify-content: space-around; margin-top: 10px;">
+  <div style="margin-top: 10px;">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=Guslik5&theme=highcontrast&fire=red&ring=purple&stroke=purple&border=purple&sideNums=yellow&currStreakNum=yellow" alt="GitHub Streak" />
     </a>
@@ -70,13 +70,13 @@
     </a>
   </div>
 
-  <div align="center">
+  <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guslik5&hide_progress=true&theme=highcontrast" alt="Top Langs" />
   </a>
   </div>
   <br>
-  <div align="center">
+  <div>
   <img src="https://github-profile-trophy.vercel.app/?username=Guslik5&theme=highcontrast&no-bg=true&column=3" alt="Guslik's trophies" />
   </div>
 </div>
